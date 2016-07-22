@@ -1,5 +1,8 @@
 
 #Windows exe of caffe to extract deep learning features
+##### You can download the exe and related dlls here: [caffe-extract-deep-feat](http://pan.baidu.com/s/1c2v7OPU).
+
+##### The code is here: [extract_feat.cpp](https://github.com/jasonustc/caffe-multigpu/blob/tools/tools/extract_feat.cpp)
 
 #### **Want to build the exe by yourself?**
 You can find the windows version of caffe project at [Caffe Windows]( https://github.com/jasonustc/caffe-multigpu/tree/tools).
