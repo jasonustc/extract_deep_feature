@@ -24,6 +24,8 @@ Flags including:
 - -model_file: the corresponding trained caffemodel file.
 - -feat_file:  the file path to store features of all the images. if not set, features will be saved independently into "xxx.jpg.feat".
 - -mode: "GPU" or "CPU", default as CPU. For GPU mode, cuda toolkit 7.5 is needed.
+- -l2_norm: true or false, if l2 normalization of feature is needed.
+- -sqrt: true or false, if square root of feature is needed.
 
 You can run ExtractDeepFeat.exe in cmd and see more usage details.
     
